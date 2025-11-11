@@ -20,6 +20,9 @@ A simple, no-API-key weather app built with **Python**, **Streamlit**, and the f
    streamlit run app.py
    ```
 
+<img width="1907" height="815" alt="image" src="https://github.com/user-attachments/assets/6ec9f165-69e7-4557-a990-07b12fb9a870" />
+<img width="1919" height="796" alt="image" src="https://github.com/user-attachments/assets/d8d5eb13-9a35-43d3-968c-b85aa949e14f" />
+
 
 
 
