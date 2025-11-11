@@ -20,6 +20,10 @@ A simple, no-API-key weather app built with **Python**, **Streamlit**, and the f
    streamlit run app.py
    ```
 
+
+   <img width="1466" height="671" alt="image" src="https://github.com/user-attachments/assets/4a12eda6-2507-4311-8a2a-3244b173dec6" />
+
+
 3. Open the URL shown in the terminal (usually http://localhost:8501).
 
 ## Project Structure
